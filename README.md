@@ -7,8 +7,7 @@ Design notes for developers 😍
 
 ### Recommened Resources
 
-- [Laws of UX](https://lawsofux.com/)
-- [Design Courses by Google](https://developers.google.com/training/android/)
-- [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) 
 - [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) 
+- [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) 
+- [Laws of UX](https://lawsofux.com/)
 
