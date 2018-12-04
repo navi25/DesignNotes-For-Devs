@@ -10,4 +10,6 @@ Design notes for developers 😍
 - [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) 
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) 
 - [Laws of UX](https://lawsofux.com/)
+- [Google Design Resources](https://design.google/resources/)
+- [Augmented Reality Design](https://designguidelines.withgoogle.com/ar-design) 
 
