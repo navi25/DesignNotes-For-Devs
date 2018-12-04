@@ -2,8 +2,7 @@
 
 UX is the lot of individual components coming together and making user happy about using your application. 
 
- [![](http://img.youtube.com/vi/MnNH6ljejKo/0.jpg)](<a href="http://www.youtube.com/watch?v=MnNH6ljejKo" target="_blank"/>
- "") 
+ [![](http://img.youtube.com/vi/MnNH6ljejKo/0.jpg)]("http://www.youtube.com/watch?v=MnNH6ljejKo" "") 
 
 
 Apple's approach to design. An extract from one of the interviews - 
