@@ -18,7 +18,7 @@ Apple's approach to design. An extract from one of the interviews -
 
 
 
-```java
+```
 Think and Apply
 
 Try to answer following question honestly and take your time.
