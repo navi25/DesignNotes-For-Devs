@@ -1,4 +1,4 @@
-# DesignDevs
+# Design Notes For Devs
 Design notes for developers 😍
 
 ### Pinned Resources
